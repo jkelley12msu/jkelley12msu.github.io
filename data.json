@@ -1,0 +1,8 @@
+{
+"userName":"jkelley12msu",
+"goals":[
+	{"goal":"Grades", "confidence":2},
+	{"goal":"Health", "confidence":3},
+	{"goal":"Socializing", "confidence":1}
+	]
+}
